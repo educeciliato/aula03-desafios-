@@ -1,5 +1,3 @@
-import 'dart:io';
-
 class Endereco {
   String rua;
   String cidade;
