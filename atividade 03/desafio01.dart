@@ -50,7 +50,7 @@ class Venda {
         print('Total (com imposto): R\$ ${total.toStringAsFixed(2)}');
       }
     };
-  }
+  };
 }
 
 void main() {
